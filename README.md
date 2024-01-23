@@ -6,7 +6,7 @@ AitchBoard is a simple drawing application built using HTML, CSS, and JavaScript
 
 ## How to Use
 
-1. Open the `index.html` file in a web browser.
+1. Open the  [AitchBoard](https://hossain101199.github.io/AitchBoard/) in a web browser.
 
 2. Click and drag your mouse on the canvas to draw.
 
